@@ -1,0 +1,14 @@
+# Environments
+venv/
+tf-metal/
+
+# Data and Cache
+data/
+notebooks/tf_cache*
+notebooks/tf_test_cache*
+
+# Mac specific junk
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
