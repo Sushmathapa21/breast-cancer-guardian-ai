@@ -16,7 +16,7 @@ This project leverages a fine-tuned MobileNetV2 Convolutional Neural Network (CN
 * **Recall (Malignant):** ~83% (Successfully optimized to catch malignant patterns)
 
 ## How to Run Locally
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/breast-cancer-guardian-ai.git`
+1. Clone the repository: `git clone https://github.com/Sushmathapa21/breast-cancer-guardian-ai.git`
 2. Install the requirements: `pip install -r requirements.txt`
 3. Launch the app: `streamlit run app.py`
 
